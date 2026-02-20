@@ -117,7 +117,7 @@
     "@babel/preset-react": "^7.24.1",
     "@babel/preset-typescript": "^7.24.1",
     "@lexical/eslint-plugin": "file:./packages/lexical-eslint-plugin",
-    "@playwright/test": "^1.45.0",
+    "@playwright/test": "^1.58.2",
     "@rollup/plugin-alias": "^5.1.0",
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-commonjs": "^25.0.7",
@@ -161,7 +161,7 @@
     "eslint-plugin-sort-keys-fix": "^1.1.2",
     "flow-bin": "^0.250.0",
     "fs-extra": "^10.0.0",
-    "glob": "^10.4.1",
+    "glob": "^12.0.0",
     "google-closure-compiler": "^20220202.0.0",
     "gzip-size": "^6.0.0",
     "hermes-estree": "^0.26.0",
@@ -181,13 +181,13 @@
     "proper-lockfile": "^4.1.2",
     "react-test-renderer": "^17.0.2",
     "rollup": "^4.22.4",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.4",
     "ts-jest": "^29.1.2",
     "ts-morph": "^25.0.1",
     "ts-node": "^10.9.1",
     "typedoc": "^0.25.12",
     "typescript": "^5.4.5",
-    "vite": "^5.2.11"
+    "vite": "^7.3.1"
   },
   "dependencies": {
     "yjs": "^13.5.42"
